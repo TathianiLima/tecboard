@@ -8,8 +8,10 @@
 /* Estilo Desktop */
 
 body{
-    background-color: #0e1014;
-     color: #ffffff;
+    /* background-color: #0e1014; */
+    background-color: #ffffff;
+    color:black;
+     /* color: #ffffff; */
 }
 
 header img {
